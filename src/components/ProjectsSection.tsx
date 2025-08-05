@@ -57,6 +57,15 @@ const ProjectsSection = () => {
       liveUrl: "#",
       githubUrl: "#",
       featured: false
+    },
+    {
+      title: "Social Media Dashboard",
+      description: "Comprehensive social media management platform with post scheduling, analytics tracking, and multi-platform integration for brands and influencers.",
+      image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&h=400&fit=crop",
+      tags: ["React", "Node.js", "Redis", "Bull Queue", "Chart.js"],
+      liveUrl: "#",
+      githubUrl: "#",
+      featured: false
     }
   ];
 
